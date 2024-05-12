@@ -10,7 +10,7 @@ Feature: Investor
     Then    Investor should redirected to profile page
     When    Investor click button edit
     And     Investor upload image
-    And     Investor update full name "jungkook", no ktp "1777886777141700" and npwp "1777886777141700"
+    And     Investor update full name "jungkook", no ktp "8877886777141700" and npwp "8877886777141700"
     And     Investor click save button
 
   Scenario Outline: User can't update profile with invalid data
