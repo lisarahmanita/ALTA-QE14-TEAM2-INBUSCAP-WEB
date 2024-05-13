@@ -1,4 +1,4 @@
-# JSON Placeholder API Automation Testing
+# Inbuscap.id Web Automation Testing
 
 ## About the Project
 This project aims to automate testing for the InBusCap web application, which serves as a platform connecting recipients and investors. Recipients create business proposals, which are then viewed by investors. If interested, investors can invest in the business and receive profits from their investments. The primary objective of this automation project is to ensure the functionality of the platform, validate user interactions, and verify the accuracy of data transactions.
