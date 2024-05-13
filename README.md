@@ -30,5 +30,5 @@ To execute the automated tests for the InBusCap web application, follow these st
 ## Team Members:
 The project's team member responsible for QA and test automation is:
 * [**Lisa Rahmanita**](https://www.linkedin.com/in/lisarahmanita)
-* [**Ryan D. Pratama **](https://www.linkedin.com/in/lisarahmanita)
+* [**Ryan D. Pratama**](https://www.linkedin.com/in/lisarahmanita)
 * [**M Chairul Fauzi**](https://www.linkedin.com/in/lisarahmanita)
